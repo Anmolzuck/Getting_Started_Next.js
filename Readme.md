@@ -1,1 +1,1 @@
-## Meetup website suing React , Next and MongoDb
+## Getting started with Next.js
